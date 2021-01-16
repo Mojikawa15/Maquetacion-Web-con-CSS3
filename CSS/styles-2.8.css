@@ -1,6 +1,6 @@
 .principal {position: relative;
             margin: 100px auto;
-            height: 600px;
+            height: 700px;
             width: 80%;
             border-radius: 10px;
             background-color: lightgreen;}
@@ -61,7 +61,7 @@ figure img {width: 200px;
         height: 40%;
         position: fixed;
         text-align: center;
-        top: 20%;
+        top: 25%;
         width: 150px;}
 
 .fijado img {margin: 5%;
